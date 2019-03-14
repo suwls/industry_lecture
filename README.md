@@ -12,11 +12,14 @@
 ### 이수진(팀장)
 ```
 e-mail: dltnwls8751@gmail.com
+역할: 
 ```
 
 ### 엄정호
 ```
 e-mail: eomjeongho1@naver.com
+역할:
+
 ```
 
 ### 경혜안
@@ -27,10 +30,13 @@ e-mail: hean1103@naver.com
 ### 최은주
 ```
 e-mail: eunju1215@kookmin.ac.kr 
+역할:
+
 ```
 
 ### 황승애
 ```
 e-mail: ghkdtmddo01@naver.com
+역할: 
 ```
 
