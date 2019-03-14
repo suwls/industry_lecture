@@ -8,7 +8,7 @@
 
 ## 3. 팀 소개
 
-
+![sujin](https://github.com/kookmin-sw/2019-cap1-2019_19/blob/master/images/sujin.png)
 ### 이수진(팀장)
 ```
 e-mail: dltnwls8751@gmail.com
