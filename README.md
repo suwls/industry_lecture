@@ -7,8 +7,9 @@
 프로젝트 소개하는 영상을 추가하세요
 
 ### 3. 팀 소개
-
+###ㅎㅎ
 ```
+### ㅎㅎ
 이수진(팀장)
 e-mail: dltnwls8751@gmail.com
 ```
@@ -28,5 +29,4 @@ e-mail: eunju1215@kookmin.ac.kr
 황승애
 e-mail: ghkdtmddo01@naver.com
 ```
-#ㅎㅎ
-##ㅎㅎ
+
