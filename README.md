@@ -5,9 +5,9 @@
 ## 2. 소개 영상
 
 https://youtu.be/u1_oJqWSfaQ
-```
+
 <iframe width="640" height="360" src="https://youtu.be/u1_oJqWSfaQ" frameborder="0" gesture="media" allowfullscreen=""></iframe>
-```
+
 ## 3. 팀 소개
 
 ![sujin](https://github.com/kookmin-sw/2019-cap1-2019_19/blob/master/images/sujin.png)
