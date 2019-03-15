@@ -5,8 +5,10 @@
 ## 2. 소개 영상
 
 https://youtu.be/u1_oJqWSfaQ
+![](https://youtu.be/u1_oJqWSfaQ)
 
 <iframe width="640" height="360" src="https://youtu.be/u1_oJqWSfaQ" frameborder="0" gesture="media" allowfullscreen=""></iframe>
+
 
 ## 3. 팀 소개
 
