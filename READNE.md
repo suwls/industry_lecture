@@ -4,7 +4,7 @@
 
  본 프로젝트는 cctv의 기능을 포함하여 복잡한 전선 연결 없이 설치가 간편하도록 인터폰을 제작한다. 또한, 오픈소스를 이용하여 부가적인 기능을 제외하고 얼굴인식 및 알림 등의 필수 기능만을 최소한으로 구현하여 가격대를 낮추고, 스마트폰뿐만 아니라 웹페이지를 통해서도 서비스를 제공하여 사용자에게 편리하고 효율적인 스마트 인터폰을 만드는 것을 목표로 한다.
  
-## 2. abstract
+# 2. abstract
 Our **‘JEONGHO-FIVE’** team aims to implement a system named **‘BANGBANG’**, which overcomes the limitations of usual interphone that users can only use inside.
 
 ‘BANGBANG’ includes the function of **CCTV** and is designed to be easy to install **without complex wire connections.** Using **OPENFACE API** that detect faces and determine who he is(or who they are), only essential functions such as **FACE RECOGNITION**, and **NOTIFICATION** are implemented to a minimum.
@@ -18,11 +18,11 @@ If these functions are provided only through mobiles, it is difficult for elderl
 **ANYTIME, ANYWHERE, YOU CAN PROTECT YOUR HOUSE WITH BANGBANG!**
 
 
-## 3. 소개 영상
+# 3. 소개 영상
 https://youtu.be/u1_oJqWSfaQ
 
 
-## 4. 팀 소개
+# 4. 팀 소개
 
 ![sujin](./images/sujin.png)
 
